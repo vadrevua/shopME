@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4818957B1E64B886001DF231 /* RecentsTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4818957A1E64B886001DF231 /* RecentsTVC.swift */; };
+		4818957D1E64B8BF001DF231 /* CartTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4818957C1E64B8BF001DF231 /* CartTableViewController.swift */; };
+		4818957F1E64B8DE001DF231 /* GroceriesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4818957E1E64B8DE001DF231 /* GroceriesTableViewController.swift */; };
+		481895811E64B8F4001DF231 /* clothingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 481895801E64B8F4001DF231 /* clothingTableViewController.swift */; };
+		481895831E64B902001DF231 /* MoviesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 481895821E64B902001DF231 /* MoviesTableViewController.swift */; };
+		481895851E64B921001DF231 /* GardenTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 481895841E64B921001DF231 /* GardenTableViewController.swift */; };
+		481895871E64B92E001DF231 /* electronicsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 481895861E64B92E001DF231 /* electronicsTableViewController.swift */; };
+		481895891E64B93C001DF231 /* booksTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 481895881E64B93C001DF231 /* booksTableViewController.swift */; };
+		4818958B1E64B94D001DF231 /* appliancesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4818958A1E64B94D001DF231 /* appliancesTableViewController.swift */; };
+		4818958D1E64B95D001DF231 /* toysTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4818958C1E64B95D001DF231 /* toysTableViewController.swift */; };
 		4868E6E41E5E1E40002E707B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4868E6E31E5E1E40002E707B /* AppDelegate.swift */; };
 		4868E6E61E5E1E40002E707B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4868E6E51E5E1E40002E707B /* ViewController.swift */; };
 		4868E6E91E5E1E41002E707B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4868E6E71E5E1E41002E707B /* Main.storyboard */; };
@@ -51,6 +61,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4818957A1E64B886001DF231 /* RecentsTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecentsTVC.swift; sourceTree = "<group>"; };
+		4818957C1E64B8BF001DF231 /* CartTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CartTableViewController.swift; sourceTree = "<group>"; };
+		4818957E1E64B8DE001DF231 /* GroceriesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroceriesTableViewController.swift; sourceTree = "<group>"; };
+		481895801E64B8F4001DF231 /* clothingTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = clothingTableViewController.swift; sourceTree = "<group>"; };
+		481895821E64B902001DF231 /* MoviesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesTableViewController.swift; sourceTree = "<group>"; };
+		481895841E64B921001DF231 /* GardenTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GardenTableViewController.swift; sourceTree = "<group>"; };
+		481895861E64B92E001DF231 /* electronicsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = electronicsTableViewController.swift; sourceTree = "<group>"; };
+		481895881E64B93C001DF231 /* booksTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = booksTableViewController.swift; sourceTree = "<group>"; };
+		4818958A1E64B94D001DF231 /* appliancesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = appliancesTableViewController.swift; sourceTree = "<group>"; };
+		4818958C1E64B95D001DF231 /* toysTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = toysTableViewController.swift; sourceTree = "<group>"; };
 		4868E6E01E5E1E40002E707B /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4868E6E31E5E1E40002E707B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4868E6E51E5E1E40002E707B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -107,6 +127,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4818958F1E64BE75001DF231 /* TableViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				4818957C1E64B8BF001DF231 /* CartTableViewController.swift */,
+				4818957E1E64B8DE001DF231 /* GroceriesTableViewController.swift */,
+				481895801E64B8F4001DF231 /* clothingTableViewController.swift */,
+				481895821E64B902001DF231 /* MoviesTableViewController.swift */,
+				4818957A1E64B886001DF231 /* RecentsTVC.swift */,
+				481895841E64B921001DF231 /* GardenTableViewController.swift */,
+				481895861E64B92E001DF231 /* electronicsTableViewController.swift */,
+				481895881E64B93C001DF231 /* booksTableViewController.swift */,
+				4818958A1E64B94D001DF231 /* appliancesTableViewController.swift */,
+				4818958C1E64B95D001DF231 /* toysTableViewController.swift */,
+			);
+			name = TableViewControllers;
+			sourceTree = "<group>";
+		};
 		4868E6D71E5E1E40002E707B = {
 			isa = PBXGroup;
 			children = (
@@ -130,6 +167,7 @@
 				4868E6E31E5E1E40002E707B /* AppDelegate.swift */,
 				4868E6E51E5E1E40002E707B /* ViewController.swift */,
 				4868E6E71E5E1E41002E707B /* Main.storyboard */,
+				4818958F1E64BE75001DF231 /* TableViewControllers */,
 				4868E6F51E5E1FBD002E707B /* HomeCVC.swift */,
 				4868E6EA1E5E1E41002E707B /* Assets.xcassets */,
 				4868E6EC1E5E1E41002E707B /* LaunchScreen.storyboard */,
@@ -288,9 +326,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				481895811E64B8F4001DF231 /* clothingTableViewController.swift in Sources */,
+				481895871E64B92E001DF231 /* electronicsTableViewController.swift in Sources */,
+				4818957B1E64B886001DF231 /* RecentsTVC.swift in Sources */,
+				4818958D1E64B95D001DF231 /* toysTableViewController.swift in Sources */,
 				4868E6F61E5E1FBD002E707B /* HomeCVC.swift in Sources */,
+				481895891E64B93C001DF231 /* booksTableViewController.swift in Sources */,
+				481895851E64B921001DF231 /* GardenTableViewController.swift in Sources */,
 				4868E6E61E5E1E40002E707B /* ViewController.swift in Sources */,
+				481895831E64B902001DF231 /* MoviesTableViewController.swift in Sources */,
+				4818957D1E64B8BF001DF231 /* CartTableViewController.swift in Sources */,
+				4818958B1E64B94D001DF231 /* appliancesTableViewController.swift in Sources */,
 				4868E6E41E5E1E40002E707B /* AppDelegate.swift in Sources */,
+				4818957F1E64B8DE001DF231 /* GroceriesTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
