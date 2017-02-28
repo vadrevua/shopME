@@ -357,6 +357,7 @@
                                         </button>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <accessibility key="accessibilityConfiguration" identifier="groceries"/>
                             </tableViewCell>
                         </prototypes>
                         <connections>
